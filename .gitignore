@@ -1,3 +1,6 @@
 /.idea/
 lexus_project.iml
 /venv/
+/.pytest_cache/
+/archived_logs/
+/latest_logs/
