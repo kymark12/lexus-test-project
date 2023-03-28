@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="610aaf91-9054-49eb-a7c3-a57338e1ef4c" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lexus_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page_object/vehicle_model_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_lexus_sg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page_object/book_test_drive.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_object/book_test_drive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page_object/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_object/homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/base_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/base_class.py" afterDir="false" />
+    <list default="true" id="610aaf91-9054-49eb-a7c3-a57338e1ef4c" name="Changes" comment="Added tests for exercise, added pom, added functions for test execution">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +82,7 @@
       <updated>1679641098244</updated>
       <workItem from="1679641099324" duration="12386000" />
       <workItem from="1679885070635" duration="5000" />
-      <workItem from="1679885149237" duration="8445000" />
+      <workItem from="1679885149237" duration="10112000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1679641490032</created>
@@ -101,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679641490032</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added tests for exercise, added pom, added functions for test execution">
+      <created>1679981578771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679981578771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +106,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Added tests for exercise, added pom, added functions for test execution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added tests for exercise, added pom, added functions for test execution" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
